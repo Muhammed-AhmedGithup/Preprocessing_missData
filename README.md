@@ -5,7 +5,7 @@
 
 ### 2-mean/median/mode imputation 
 
-###3-multiple imputation using regression
+### 3-multiple imputation using regression
 
 ### 4-nearest neighbour imputation 
 
